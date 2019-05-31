@@ -222,3 +222,22 @@ footer nav a {
     padding: 30px 0;
     border-bottom: dashed 1px gray;
 }
+
+.section-img {
+    margin-bottom: 10px;
+}
+
+.main-sections p {
+    margin-bottom: 20px;
+}
+
+button {
+    width: 100px;
+    height: 25px;
+    border-radius: 7px;
+    border: solid .1rem black;
+}
+
+.section-bottom {
+    padding-top: 30px;
+}
